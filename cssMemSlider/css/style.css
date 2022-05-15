@@ -86,12 +86,12 @@ html {
         background-position: center;
         background-repeat: no-repeat;    }
     #cat3 {
-        background-image: url(/img/cat3.jpg);      
+        background-image: url(img/cat3.jpg);      
         background-size: 100%;   
         background-position: center;
         background-repeat: no-repeat;    }
     #cat4 {
-        background-image: url(/img/cat4.jpg);      
+        background-image: url(./img/cat4.jpg);      
         background-size: 100%;   
         background-position: center;
         background-repeat: no-repeat;    }
