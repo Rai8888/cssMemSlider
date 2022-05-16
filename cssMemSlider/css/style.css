@@ -1,4 +1,5 @@
-*{
+
+ *{
 	padding: 0;
 	margin: 0;
 	border: 0;
@@ -74,27 +75,11 @@ html {
         height: 100%;
         transition: transform 0.5s;
     }    
-    #cat1 {
-        background-image: url(/img/cat1.jpg);   
+    #cat1, #cat2, #cat3, #cat4 {   
         background-size: 100%;   
         background-position: center;
         background-repeat: no-repeat;
     }
-    #cat2 {
-        background-image: url(/img/cat2.jpg);      
-        background-size: 100%;   
-        background-position: center;
-        background-repeat: no-repeat;    }
-    #cat3 {
-        background-image: url(/img/cat3.jpg);      
-        background-size: 100%;   
-        background-position: center;
-        background-repeat: no-repeat;    }
-    #cat4 {
-        background-image: url(/img/cat4.jpg);      
-        background-size: 100%;   
-        background-position: center;
-        background-repeat: no-repeat;    }
 
     #slider-footer{
         display: flex;
